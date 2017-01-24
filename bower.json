@@ -1,0 +1,24 @@
+{
+    "name": "adapt-theme-edsa",
+    "repository": "git@github.com:theodi/adapt-theme-edsa.git",
+    "framework": "^2.0.0",
+    "version": "0.3.1",
+    "homepage": "https://github.com/theodi/adapt-theme-edsa/",
+    "issues": "https://github.com/theodi/adapt-theme-edsa/issues",
+    "displayName": "European Data Science Academy",
+    "theme": "European Data Science Academy",
+    "description": "A custom theme for European Data Science Academy modules",
+    "main": "js/edsa.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-theme"
+    ],
+    "licenedsa": "GPLv3",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
